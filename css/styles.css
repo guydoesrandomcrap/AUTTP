@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+    text-align: center;
+}
+header {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
