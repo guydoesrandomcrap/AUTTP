@@ -14,10 +14,10 @@
 
 # Welcome to AUTTP
 
-We strongly oppose UTTP due to their harmful activities like doxxing and targeting minors.
+We strongly hate UTTP due to their harmful crap like doxxing and targeting minors and more.
 
 ## About Us
-AUTTP was created to fight against the negative actions of UTTP.
+AUTTP was created to fight against the dumb actions of UTTP.
 
 ## Discord
 Join discord at [discord](https://discord.gg/keBHhfpCaA).
