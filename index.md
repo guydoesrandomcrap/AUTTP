@@ -19,5 +19,5 @@ We strongly oppose UTTP due to their harmful activities like doxxing and targeti
 ## About Us
 AUTTP was created to fight against the negative actions of UTTP.
 
-## Contact Us
-Get in touch with us at [email@example.com](mailto:email@example.com).
+## Discord
+Join discord at [discord](https://discord.gg/keBHhfpCaA).
