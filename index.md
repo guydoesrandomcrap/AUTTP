@@ -21,3 +21,9 @@ AUTTP was created to fight against the dumb actions of UTTP.
 
 ## Discord
 Join discord at [discord](https://discord.gg/keBHhfpCaA).
+
+## Stuffs site maker is making
+1: Shoot the UTTP (game)
+2: AUTTP Simulator (game)
+3: some slogans
+4: more
