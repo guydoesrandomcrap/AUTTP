@@ -14,7 +14,7 @@
 
 # Welcome to AUTTP
 
-We strongly hate UTTP due to their harmful crap like doxxing and targeting minors and more.
+We strongly hate UTTP due to their dumb crap like doxxing and targeting minors and saying they are better, well areuttpbetter.com/notatall.
 
 ## About Us
 AUTTP was created to fight against the dumb actions of UTTP.
@@ -22,7 +22,7 @@ AUTTP was created to fight against the dumb actions of UTTP.
 ## Discord
 Join discord at [discord](https://discord.gg/keBHhfpCaA).
 
-## Stuffs site maker is making
+## Stuffs guy is making
 1: Shoot the UTTP (game)
 2: AUTTP Simulator (game)
 3: some slogans
